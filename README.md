@@ -12,6 +12,6 @@ Here are descriptions of each of the files in this repository:
 
 * **setlist.R:** My R code implementing the algorithm I created.
 
-* **Live Nation description.pdf:** A description of how the algorithm works.
+* **Live Nation description.pdf:** A brief white paper describing how the algorithm works.
 
 There is also a folder containing the LaTeX files for the description.
