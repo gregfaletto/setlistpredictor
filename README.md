@@ -14,4 +14,6 @@ Here are descriptions of each of the files in this repository:
 
 * **Live Nation description.pdf:** A brief white paper describing how the algorithm works.
 
+* **Bernoulli Autogressive Processes.pdf:** I later learned that my approach to this problem was closely related to a model form called Bernoulli autoregressive processes. This article is meant for a wide audience and covers this set list problem from this perspective.
+
 There is also a folder containing the LaTeX files for the description.
